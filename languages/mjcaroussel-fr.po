@@ -1,0 +1,128 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MJCaroussel\n"
+"POT-Creation-Date: 2017-03-10 18:26+0100\n"
+"PO-Revision-Date: 2017-03-10 18:27+0100\n"
+"Last-Translator: \n"
+"Language-Team: Morgan Jourdin <wpdevfr@gmail.com>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: mjcaroussel.php\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: class.mjcaroussel.php:93
+#, php-format
+msgid "MJCaroussel %s requires WordPress %s or higher."
+msgstr "MJCaroussel%s nécessite WordPress%s ou plus."
+
+#: class.mjcaroussel.php:117 class.mjcaroussel.php:118
+#: class.mjcaroussel.php:127
+msgid "MjCaroussel"
+msgstr "MjCaroussel"
+
+#: class.mjcaroussel.php:119 class.mjcaroussel.php:120
+msgid "Add new image"
+msgstr "Ajouter une Image"
+
+#: class.mjcaroussel.php:121
+msgid "Edit"
+msgstr "Editer"
+
+#: class.mjcaroussel.php:122
+msgid "New image"
+msgstr "Nouvelle image"
+
+#: class.mjcaroussel.php:123
+msgid "See the image"
+msgstr "Voir l'image."
+
+#: class.mjcaroussel.php:124
+msgid "Find a image"
+msgstr "Trouver une image"
+
+#: class.mjcaroussel.php:125
+msgid "No image(s) found"
+msgstr "image non trouvée"
+
+#: class.mjcaroussel.php:126
+msgid "No image(s) in the trash"
+msgstr "Aucune image (s) à la poubelle"
+
+#: class.mjcaroussel.php:162 class.mjcaroussel.php:163
+msgid "Gallery"
+msgstr "Galerie"
+
+#: class.mjcaroussel.php:164
+msgid "Search Galleries"
+msgstr "Rechercher dans les galeries"
+
+#: class.mjcaroussel.php:165
+msgid "Popular Galleries"
+msgstr "Galeries populaires"
+
+#: class.mjcaroussel.php:166
+msgid "All Galleries"
+msgstr "Toutes les galeries"
+
+#: class.mjcaroussel.php:169
+msgid "Edit Gallery"
+msgstr "Modifier la Galerie"
+
+#: class.mjcaroussel.php:170
+msgid "Update Gallery"
+msgstr "Mettre à jour la galerie"
+
+#: class.mjcaroussel.php:171
+msgid "Add a Gallery"
+msgstr "Ajouter une galerie"
+
+#: class.mjcaroussel.php:172
+msgid "Add a name Gallery"
+msgstr "Ajouter un nom de galerie"
+
+#: class.mjcaroussel.php:173
+msgid "Separate Galleries with commas"
+msgstr "Séparer les galeries par des virgules"
+
+#: class.mjcaroussel.php:174
+msgid "Add or remove a Gallery"
+msgstr "Ajouter ou supprimer une galerie"
+
+#: class.mjcaroussel.php:175
+msgid "Choose The most used"
+msgstr "Choisir parmi les plus utilisés"
+
+#: class.mjcaroussel.php:176
+msgid "Not found"
+msgstr "Page non trouvée"
+
+#: class.mjcaroussel.php:177
+msgid "Galleries"
+msgstr "Galeries"
+
+#. Plugin Name of the plugin/theme
+msgid "MJCaroussel"
+msgstr "MJCaroussel"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://www.morgan-jourdin.fr/"
+msgstr "http://www.morgan-jourdin.fr/"
+
+#. Description of the plugin/theme
+msgid "Used to create the galleries."
+msgstr "Utilisé pour créer les galeries."
+
+#. Author of the plugin/theme
+msgid "Morgan JOURDIN"
+msgstr "Morgan JOURDIN"

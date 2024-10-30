@@ -1,0 +1,30 @@
+// out: ../css/mjcaroussel.css, sourcemap: true, compress: false
+
+@charset "UTF-8";
+
+/*
+Author: Morgan JOURDIN
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+*/
+
+@import 'slick-theme.less';
+@import 'slick.less';
+
+.mjcaroussel {
+  div {
+      position: relative;
+  }
+
+  span.caption {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    padding: 5px 15px;
+    color: white;
+    font-family: arial, sans-serif;
+    font-size: 12px;
+    background: fade(black, 70%);
+  }
+}

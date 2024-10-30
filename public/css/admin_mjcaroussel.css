@@ -1,0 +1,10 @@
+i.mce-i-icon {
+    font-family: "dashicons";
+    content: "\f100";
+    background: #444;
+}
+
+i.mce-i-icon::before {
+    color: #FFF;
+    font-weight: bold;
+}
